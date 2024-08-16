@@ -1,4 +1,4 @@
-# chromeaction
+# Chrome Action Sample Extension
 Chrome extension that changes the action icon, badge text and popup ui randomly when clicked. When the extension is opened the popup will have a button that does the same thing.
 
 <img src="./screenshot.png" alt="Chrome Action" />
