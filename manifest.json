@@ -1,0 +1,16 @@
+{
+    "name": "Chrome Action",
+    "manifest_version": 3,
+    "version": "1.0.0.0",
+    "action": {
+        "default_icon": {
+            "16": "./icons/icon.png",
+            "24": "./icons/icon.png",
+            "32": "./icons/icon.png"
+        },
+        "default_title": "Chrome Action Click Me"
+    },
+    "background": {
+        "service_worker": "background.js"
+    }
+}
