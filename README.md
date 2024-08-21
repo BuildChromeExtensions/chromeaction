@@ -11,3 +11,7 @@ We are going to use several different functions from chrome.action to change det
 
 
 Note: if there is a default_popup set the chrome.action.onClick does not work, because it overrides the onClick function open the popup. But if there is no popup set then chrome.action.onClick should work. chrome.action function are one of many that only work in popup javascript files and background scripts NOT in content scripts.
+
+<a href="https://www.buymeacoffee.com/m2kdevelopments" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
